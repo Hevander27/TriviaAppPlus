@@ -34,6 +34,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Ncgaoby"  ><a href="//imgur.com/a/Ncgaoby">Unite 4 Project: Trivia App Pt. 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/1EL8YV9"  ><a href="//imgur.com/a/1EL8YV9">Unite 4 Project: Trivia App Pt. 2 (True False)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
