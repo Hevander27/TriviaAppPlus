@@ -1,4 +1,4 @@
-# Project 4 - *Name of App Here*
+# Project 4 - *Trivia App Part 2*
 
 Submitted by: **Hevander Da Costa**
 
