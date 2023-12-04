@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[img]https://i.imgur.com/Tree4Yf.gif[/img]
+
 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Ncgaoby"  ><a href="//imgur.com/a/Ncgaoby">Unite 4 Project: Trivia App Pt. 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
